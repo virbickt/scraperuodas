@@ -26,7 +26,7 @@ from scraperuodas.main import Scraperuodas
 scraper = Scraperuodas()
 scraper.scrape_data(400, "vilniuje", 350)
 ```
-
+![example](images/data.PNG)
 ## Technologies
 - `beautifulsoup4 4.9.3`
 - `fake-useragent 0.1.11`
