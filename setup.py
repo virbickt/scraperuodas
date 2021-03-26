@@ -1,8 +1,9 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
-    name='scraperuodas',
-    version='1.0',
-    py_modules=['scraperuodas'],
-    package_dir={"": "scraperuodas"}
+  name="scraperuodas",
+  version="0.0.1",
+  description="Scrape aruodas.lt",
+  py_modules=["scraperuodas"],
+  package_dir={"": "scraperuodas"},
 )
