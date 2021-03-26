@@ -4,6 +4,6 @@ setup(
   name="scraperuodas",
   version="0.0.1",
   description="Scrape aruodas.lt",
-  py_modules=["main"],
-  package_dir={"": "scraperuodas"},
+  py_modules=["scraperuodas"],
+  package_dir={"": "src"},
 )
