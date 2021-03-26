@@ -34,6 +34,10 @@ scraper.scrape_data(400, "vilniuje", 350)
 
 For the full list of dependencies, please find *requirements.txt*
 
+## Disclaimer
+The tool has been created solely for educational purposes and and the data collected has not and cannot be used for any other purposes. The tool has only been put into practice to an extent that meets the educational project requirements. Here we cite the [site's policy](https://www.aruodas.lt/dalyvio-taisykles/) (in Lithuanian) on automatic data collection on the site:
+> *3.1.7. nenaudoti jokių automatizuotų priemonių, įskaitant, bet neapsiribojant papildoma kompiuterine technika ir/ar programine įranga, duomenų peržiūrai ir/ar išsaugojimui, Skelbimų sukūrimui, redagavimui, taip pat nenaudoti jokių priemonių, skirtų apdoroti Svetainės turinį ir (ar) dizainą, ir (ar) Paslaugas (įskaitant ir Skelbimų įdėjimą), ar skirtų juos kopijuoti, dekompiliuoti, šifruoti, perprogramuoti, perkelti, nukreipti kitaip nei leidžia standartiniai Svetainės funkcionalumai, nebent su Klientu raštu iš anksto būtų suderinta kitokia Svetainės ir (ar) Paslaugų naudojimo tvarka;*
+
 ## License
 The project is licenced under [GNU General Public License v3.0](https://github.com/virbickt/calculator/blob/main/LICENSE.md)
 
