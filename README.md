@@ -15,16 +15,16 @@ It scrapes data based on the following categories: number of samples to be colle
 In order to use the package, go through the following two-step process:
 1. Install the package directly from GitHub using `pip` by using the following:
 ```python
-pip install git+https://github.com/virbickt/aruodas-scraper.git
+pip install git+https://github.com/virbickt/scraperuodas.git
 ```
 2. Once the package is successfully installed, make sure to include the import statement:
 ```python
-from calculator import Calculator
+from scraperuodas.main import Scraperuodas
 ```
 ## Examples
 ```python
-aruodas_scraper = Scraper()
-aruodas_scraper.scrape_data(300, "vilniuje")
+scraper = Scraperuodas()
+scraper.scrape_data(400, "vilniuje", 350)
 ```
 
 ## Technologies
