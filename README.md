@@ -3,7 +3,7 @@
 
 Data collection is a part of the process of building a machine learning pipeline. For the purposes of collecting large amounts of data, automatic data collection tools such as web scrapers and web spiders. **Scraperuodas** is an instance of automatic data collection tools that is specifically designed to extract data from **aruodas.lt**, the most popular Lithuanian real estate listings site. 
 
-It scrapes data based on the following categories: number of samples to be collected, city and maximum price. Having collected the data, it is further processed using pandas, a popular data analysis library. As a result, a pandas DataFrame is returned with categories such as *price*, *price per square meter*, *number of rooms*, *area in square meters*, *the floor the apartment listed is on*, *total number of floors on the building*, *date the listing has been added*, *district* and the *street* the apartment is located. 
+It scrapes data based on the following categories: number of samples to be collected, city and maximum price. Having collected the data, it is further processed using pandas, a popular data analysis library. As a result, a pandas DataFrame is returned with categories such as *price* (Eur) , *price per square meter* (Eur), *number of rooms*, *area in square meters*, *the floor the apartment listed is on*, *total number of floors on the building*, *date the listing has been added*, *district* and the *street* the apartment is located. 
 1. [Introduction](#Introduction)
 2. [Installation](#Installation)
 3. [Examples](#Examples)
