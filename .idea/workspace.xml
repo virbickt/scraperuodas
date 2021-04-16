@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64f17a97-033a-4f4c-9329-12194b7af02a" name="Default Changelist" comment="" />
+    <list default="true" id="64f17a97-033a-4f4c-9329-12194b7af02a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraperuodas/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraperuodas/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +135,7 @@
       <updated>1616753535894</updated>
       <workItem from="1616753565233" duration="10229000" />
       <workItem from="1618059767046" duration="4213000" />
-      <workItem from="1618558385465" duration="7336000" />
+      <workItem from="1618558385465" duration="7739000" />
     </task>
     <servers />
   </component>
