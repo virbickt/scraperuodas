@@ -34,6 +34,7 @@ class Scraperuodas:
         The number of samples corresponds to the number of rows in the returned table.
         
     """
+    
     def __init__(self) -> None:
         self.num_samples = 0
         self.max_price = 0
