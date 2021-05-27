@@ -9,6 +9,7 @@ from random import randint
 
 
 class Scraperuodas:
+    """Automated data collection tool (web-scraper) specifically tailored to scrape data on aruodas.lt."""
     def __init__(self) -> None:
         self.num_samples = 0
         self.max_price = 0
