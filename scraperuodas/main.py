@@ -111,7 +111,6 @@ class Scraperuodas:
         self.city = city
         self.max_price = max_price
 
-        # check_inputs(self.__num_samples, self.__city)
         urls = self.generate_urls(self.num_samples, self.city, self.max_price)
         result = []
 
